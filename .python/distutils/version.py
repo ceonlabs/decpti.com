@@ -1,0 +1,3 @@
+
+class LooseVersion(object):
+    pass
